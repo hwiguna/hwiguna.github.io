@@ -7,3 +7,16 @@ body {
   padding: 0;
   overscroll-behavior: none;
 }
+
+#instructions {
+  position: fixed;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  z-index: 100;
+}
