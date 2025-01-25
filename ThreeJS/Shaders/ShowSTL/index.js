@@ -27,12 +27,12 @@ const cubeTextureLoader = new THREE.CubeTextureLoader();
 
 
 const environmentMap = cubeTextureLoader.load([
-  'airport/px.png',
-  'airport/nx.png',
-  'airport/py.png',
-  'airport/ny.png',
-  'airport/pz.png',
-  'airport/nz.png'
+  'Airport/px.png',
+  'Airport/nx.png',
+  'Airport/py.png',
+  'Airport/ny.png',
+  'Airport/pz.png',
+  'Airport/nz.png'
 ]);
 
 // For scene background
